@@ -1,9 +1,9 @@
 <scheme name="IntelliJ Light" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2022-03-07T09:38:06</property>
+    <property name="created">2022-03-31T09:18:15</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-03-07T09:38:29</property>
+    <property name="ideVersion">2021.3.3.0.0</property>
+    <property name="modified">2022-03-31T09:18:35</property>
     <property name="originalScheme">_@user_IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -43,7 +43,7 @@
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="9a0097" />
+        <option name="FOREGROUND" value="1750eb" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -54,7 +54,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="9a0097" />
+        <option name="FOREGROUND" value="660e7a" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -91,7 +91,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="9a0097" />
+        <option name="FOREGROUND" value="660e7a" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -129,7 +129,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="9a0097" />
+        <option name="FOREGROUND" value="660e7a" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
@@ -277,7 +277,7 @@
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="9a0097" />
+        <option name="FOREGROUND" value="660e7a" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
@@ -419,6 +419,11 @@
     <option name="YAML_ANCHOR">
       <value>
         <option name="FOREGROUND" value="e6" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_KEY">
+      <value>
+        <option name="FOREGROUND" value="9a0097" />
       </value>
     </option>
   </attributes>
