@@ -1,9 +1,9 @@
 <scheme name="IntelliJ Light" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2022-03-31T09:18:15</property>
+    <property name="created">2022-04-01T08:07:00</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-03-31T09:18:35</property>
+    <property name="modified">2022-04-01T08:07:13</property>
     <property name="originalScheme">_@user_IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -423,7 +423,7 @@
     </option>
     <option name="YAML_SCALAR_KEY">
       <value>
-        <option name="FOREGROUND" value="9a0097" />
+        <option name="FOREGROUND" value="660e7a" />
       </value>
     </option>
   </attributes>
