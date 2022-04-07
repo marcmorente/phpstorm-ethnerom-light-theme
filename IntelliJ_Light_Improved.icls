@@ -1,9 +1,9 @@
 <scheme name="IntelliJ Light" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2022-04-01T08:07:00</property>
+    <property name="created">2022-04-07T15:47:19</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-04-01T08:07:13</property>
+    <property name="modified">2022-04-07T15:47:28</property>
     <property name="originalScheme">_@user_IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -270,11 +270,6 @@
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="" />
-    <option name="JS.EXPORTED.VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="550ae" />
-      </value>
-    </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="660e7a" />
