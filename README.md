@@ -1,6 +1,6 @@
 # Ethnerom Light Theme
 
-Light Theme based on PHPStorm with a bit of improvements
+Light Theme based on PHPStorm with some tweaks
 
 ## Installation
 
