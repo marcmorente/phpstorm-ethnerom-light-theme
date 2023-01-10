@@ -1,9 +1,9 @@
 <scheme name="Ethnerom Light Theme" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2022-09-21T07:44:35</property>
+    <property name="created">2023-01-10T10:42:14</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2022.2.2.0.0</property>
-    <property name="modified">2022-09-21T07:45:13</property>
+    <property name="ideVersion">2022.3.1.0.0</property>
+    <property name="modified">2023-01-10T10:42:23</property>
     <property name="originalScheme">Ethnerom Light Theme</property>
   </metaInfo>
   <colors>
@@ -52,9 +52,14 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="660e7a" />
+        <option name="FOREGROUND" value="6b2fba" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -81,9 +86,6 @@
         <option name="FOREGROUND" value="174be6" />
       </value>
     </option>
-    <option name="DEFAULT_FUNCTION_CALL">
-      <value />
-    </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="627a" />
@@ -96,7 +98,12 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="660e7a" />
+        <option name="FOREGROUND" value="6b2fba" />
+      </value>
+    </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -132,9 +139,15 @@
         <option name="FOREGROUND" value="1750eb" />
       </value>
     </option>
+    <option name="DEFAULT_PREDEFINED_SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="627a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="660e7a" />
+        <option name="FOREGROUND" value="6b2fba" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
@@ -145,7 +158,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="46c4e" />
+        <option name="FOREGROUND" value="a31515" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -283,7 +296,7 @@
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="660e7a" />
+        <option name="FOREGROUND" value="6b2fba" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
@@ -313,6 +326,11 @@
         <option name="FOREGROUND" value="264eff" />
       </value>
     </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="a31515" />
+      </value>
+    </option>
     <option name="List/map to object conversion">
       <value>
         <option name="FOREGROUND" value="ff" />
@@ -333,7 +351,7 @@
         <option name="FOREGROUND" value="0" />
       </value>
     </option>
-    <option name="PHP_INSTANCE_FIELD">
+    <option name="PHP_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="0" />
       </value>
@@ -396,6 +414,11 @@
         <option name="ERROR_STRIPE_COLOR" value="54aae3" />
       </value>
     </option>
+    <option name="TWIG_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="7e8a" />
@@ -441,7 +464,7 @@
     </option>
     <option name="YAML_SCALAR_KEY">
       <value>
-        <option name="FOREGROUND" value="660e7a" />
+        <option name="FOREGROUND" value="a31515" />
       </value>
     </option>
   </attributes>
